@@ -1,0 +1,15 @@
+td {
+    background-color: lightblue;
+    width: 25px;
+    height: 25px;
+}
+
+table {
+    margin: 50px;
+    border: 2px solid black;
+}
+
+#label {
+    background-color: grey;
+    border: 2px solid grey;
+}
